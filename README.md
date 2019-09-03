@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-!["Dashboard"](https://github.com/yanlinchengrui/tomomap/blob/master/docs/tomomap.png
+!["tomomap"](https://github.com/yanlinchengrui/tomomap/blob/master/docs/tomomap.png)
 
 ## Stacks:
 
