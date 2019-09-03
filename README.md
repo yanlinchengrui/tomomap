@@ -1,4 +1,4 @@
-# TomoMap
+# TomoMap < https://tomomap.now.sh/ >
 
 * App detects users location (from browser or IP)
 * Users can leave a message and an image
