@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+  width: 100vw;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
+
+.map {
+  height: 100%;
+}
+
+.message {
+  z-index: 999;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.message-hide {
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.leaflet-popup-content {
+  width:auto !important;
+}
