@@ -225,7 +225,7 @@ class App extends Component {
                   </FormGroup>
                   <FormGroup>
                     <Label for="image"><strong> Your image: </strong></Label>
-                    <Input type="file" name="image" id="image" onChange={this.changed} />
+                    <Input type="file" name="image" id="image" accept="image/*" onChange={this.changed} />
                   </FormGroup>
                   <Button type="submit" color="success" disabled={!this.state.haveLocation}>Send!</Button>
                   <Button className="message-hide" onClick={this.showOrHideForm} color="danger"> X </Button>
